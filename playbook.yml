@@ -1,0 +1,4 @@
+---
+- hosts: vagrant-one 
+  tasks:
+  - debug: msg="Hello there"
